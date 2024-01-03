@@ -1,4 +1,4 @@
-# Text Encrypt Decrypt
+# Text Console
 
 文字加密解密程序，支持 Base64 和 URL(UTF8) 两种加密算法。
 
